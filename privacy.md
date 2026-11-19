@@ -53,4 +53,5 @@ policy applies to the form.
 **Changes.** If a future version changes how information is handled, we will
 update this policy and its effective date before that version is released.
 
-**Contact.** See the [support page](support).
+**Contact.** Use the [contact form](https://docs.google.com/forms/d/e/1FAIpQLSfZ8GXdTniNnkuKf7vTFbnts5eqpzBCbXrJq_qB2p1wGjwLfg/viewform)
+or see the [support page](support).

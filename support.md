@@ -42,5 +42,7 @@ works offline and needs no account.
 
 ## Contact
 
-The contact form will be linked here shortly. Please include your iPhone model
-and iOS version, and please don't send private message content.
+Questions, problems or ideas? **[Send a message with the contact form](https://docs.google.com/forms/d/e/1FAIpQLSfZ8GXdTniNnkuKf7vTFbnts5eqpzBCbXrJq_qB2p1wGjwLfg/viewform)**
+— no account needed. Add your email if you'd like a reply, and your iPhone
+model and iOS version if something isn't working. Please don't send private
+message content.
